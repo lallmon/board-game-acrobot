@@ -2,10 +2,21 @@ const Discord = require("discord.js");
 const dotenv = require("dotenv");
 const upper = require("lodash.toupper");
 const content = require("./acronyms.json");
+const http = require("http");
 const client = new Discord.Client();
 dotenv.config();
 
 stripUserId = str => upper(str.replace(/<\S+>\s/, ""));
+
+http
+  .createServer((req, res) => {
+    res.writeHead(200, {
+      "Content-type": "text/plain"
+    });
+    res.write("Hey");
+    res.end();
+  })
+  .listen(4000);
 
 client.on("ready", () => {
   console.log(`Logged in as ${client.user.username}!`);
