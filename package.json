@@ -3,7 +3,7 @@
   "dependencies": {
     "discord.js": "^11.5.1",
     "dotenv": "^8.2.0",
-    "lodash.toupper": "^4.1.2"
+    "lodash": "^4.17.15"
   },
   "description": "A Discord bot for referencing board game Acronyms",
   "license": "MIT",

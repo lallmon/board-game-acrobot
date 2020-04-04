@@ -1,77 +1,87 @@
 {
-  "ANR": [
-    "Android: Netrunner"
-  ],
-  "AP": [
-    "Action Points",
-    "Analysis Paralysis"
-  ],
-  "BGG":
-    "Board Game Geek",
-  "BSG": [
-    "Battlestar Galactica"
-  ],
-  "CAH": [
-    "Cards Against Humanity"
-  ],
-  "CCG": [
-    "Collectible Card Game",
-    "Customizable Card Game",
-    "See Also: TCG"
-  ],
-  "COB": [
-    "Castles of Burgundy"
-  ],
-  "DIY": [
-    "Do It Yourself"
-  ],
-  "FLGS": [
-    "Friendly Local Game Shop/Store",
-    "See Also: LGS"
-  ],
-  "GOT": [
-    "A Game of Thrones"
-  ],
-  "GTR": [
-    "Glory to Rome"
-  ],
-  "IP": [
-    "Intellectual Property"
-  ],
-  "LCG": [
-    "Living Card Game"
-  ],
-  "LGS": [
-    "Local Game Shop/Store",
-    "See Also: FLGS"
-  ],
-  "LOW": [
-    "Lords of Waterdeep"
-  ],
-  "MK": [
-    "Mage Knight"
-  ],
-  "MTG": [
-    "Magic: The Gathering"
-  ],
-  "OOP": [
-    "Out Of Print"
-  ],
-  "PNP": [
-    "Print and Play"
-  ],
-  "RFTG": [
-    "Roll for the Galaxy",
-    "Race for the Galaxy"
-  ],
-  "RPG": [
-    "Role Playing Game"
-  ],
-  "TCG": [
-    "Trading Card Game"
-  ],
-  "TM": [
-    "Terraforming Mars",
-    "Terra Mystica"
-  ]
+	"ANR": [
+		"Android: Netrunner"
+	],
+	"AP": [
+		"Action Points",
+		"Analysis Paralysis"
+	],
+	"BGB": [
+		"Board Game Barrage"
+	],
+	"BGG": [
+		"Board Game Geek"
+	],
+	"BSG": [
+		"Battlestar Galactica"
+	],
+	"CAH": [
+		"Cards Against Humanity"
+	],
+	"CCG": [
+		"Collectible Card Game",
+		"Customizable Card"
+	],
+	"COB": [
+		"Castles of Burgundy"
+	],
+	"DIY": [
+		"Do It Yourself"
+	],
+	"FLGS": [
+		"Friendly Local Game Shop"
+	],
+	"GOT": [
+		"A Game of Thrones"
+	],
+	"GTR": [
+		"Glory to Rome"
+	],
+	"IP": [
+		"Intellectual Property"
+	],
+	"LCG": [
+		"Living Card Game"
+	],
+	"LGS": [
+		"Local Game Store"
+	],
+	"LOW": [
+		"Lords of Waterdeep"
+	],
+	"MK": [
+		"Mage Knight"
+	],
+	"MTG": [
+		"Magic: The Gathering"
+	],
+	"OOP": [
+		"Out Of Print"
+	],
+	"PNP": [
+		"Print and Play"
+	],
+	"RFTG": [
+		"Roll for the Galaxy",
+		"Race for the Galaxy"
+	],
+	"RPG": [
+		"Role Playing Game"
+	],
+	"SC": [
+		"Sidereal Confluence"
+	],
+	"TCG": [
+		"Trading Card Game"
+	],
+	"TFM": [
+		"Terraforming Mars"
+	],
+	"TM": [
+		"Terraforming Mars",
+		"Terra Mystica"
+	],
+	"TTA": [
+		"Through the Ages"
+	]
 }
