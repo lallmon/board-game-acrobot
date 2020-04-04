@@ -1,9 +1,9 @@
 {
   "author": "Lucas K Allmon",
   "dependencies": {
-    "discord.js": "^11.5.1",
-    "dotenv": "^8.2.0",
-    "lodash": "^4.17.15"
+    "discord.js": "12.1.1",
+    "dotenv": "8.2.0",
+    "lodash": "4.17.15"
   },
   "description": "A Discord bot for referencing board game Acronyms",
   "license": "MIT",
