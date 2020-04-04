@@ -1,87 +1,108 @@
 {
-	"ANR": [
-		"Android: Netrunner"
-	],
-	"AP": [
-		"Action Points",
-		"Analysis Paralysis"
-	],
-	"BGB": [
-		"Board Game Barrage"
-	],
-	"BGG": [
-		"Board Game Geek"
-	],
-	"BSG": [
-		"Battlestar Galactica"
-	],
-	"CAH": [
-		"Cards Against Humanity"
-	],
-	"CCG": [
-		"Collectible Card Game",
-		"Customizable Card"
-	],
-	"COB": [
-		"Castles of Burgundy"
-	],
-	"DIY": [
-		"Do It Yourself"
-	],
-	"FLGS": [
-		"Friendly Local Game Shop"
-	],
-	"GOT": [
-		"A Game of Thrones"
-	],
-	"GTR": [
-		"Glory to Rome"
-	],
-	"IP": [
-		"Intellectual Property"
-	],
-	"LCG": [
-		"Living Card Game"
-	],
-	"LGS": [
-		"Local Game Store"
-	],
-	"LOW": [
-		"Lords of Waterdeep"
-	],
-	"MK": [
-		"Mage Knight"
-	],
-	"MTG": [
-		"Magic: The Gathering"
-	],
-	"OOP": [
-		"Out Of Print"
-	],
-	"PNP": [
-		"Print and Play"
-	],
-	"RFTG": [
-		"Roll for the Galaxy",
-		"Race for the Galaxy"
-	],
-	"RPG": [
-		"Role Playing Game"
-	],
-	"SC": [
-		"Sidereal Confluence"
-	],
-	"TCG": [
-		"Trading Card Game"
-	],
-	"TFM": [
-		"Terraforming Mars"
-	],
-	"TM": [
-		"Terraforming Mars",
-		"Terra Mystica"
-	],
-	"TTA": [
-		"Through the Ages"
-	]
+  "ANR": [
+    "Android: Netrunner"
+  ],
+  "AP": [
+    "Action Points",
+    "Analysis Paralysis"
+  ],
+  "BGB": [
+    "Board Game Barrage"
+  ],
+  "BGG": [
+    "Board Game Geek"
+  ],
+  "BSG": [
+    "Battlestar Galactica"
+  ],
+  "CAH": [
+    "Cards Against Humanity"
+  ],
+  "CCG": [
+    "Collectible Card Game",
+    "Customizable Card"
+  ],
+  "COB": [
+    "Castles of Burgundy"
+  ],
+  "DIY": [
+    "Do It Yourself"
+  ],
+  "FCM": [
+    "Food Chain Magnate"
+  ],
+  "FLGS": [
+    "Friendly Local Game Shop"
+  ],
+  "GH": [
+    "Gloomhaven"
+  ],
+  "HT": [
+    "Hansa Teutonica"
+  ],
+  "GOT": [
+    "A Game of Thrones"
+  ],
+  "GTR": [
+    "Glory to Rome"
+  ],
+  "IP": [
+    "Intellectual Property"
+  ],
+  "LCG": [
+    "Living Card Game"
+  ],
+  "LGS": [
+    "Local Game Store"
+  ],
+  "LOW": [
+    "Lords of Waterdeep"
+  ],
+  "MK": [
+    "Mage Knight"
+  ],
+  "MTG": [
+    "Magic: The Gathering"
+  ],
+  "OOP": [
+    "Out Of Print"
+  ],
+  "PNP": [
+    "Print and Play"
+  ],
+  "RFTG": [
+    "Roll for the Galaxy",
+    "Race for the Galaxy"
+  ],
+  "RPG": [
+    "Role Playing Game"
+  ],
+  "SC": [
+    "Sidereal Confluence"
+  ],
+  "SI": [
+    "Spirit Island"
+  ],
+  "TCG": [
+    "Trading Card Game"
+  ],
+  "TFM": [
+    "Terraforming Mars"
+  ],
+  "TGZ": [
+    "The Great Zimbabwe"
+  ],
+  "TM": [
+    "Terraforming Mars",
+    "Terra Mystica"
+  ],
+  "TMB": [
+    "Too Many Bones"
+    ],
+  "TTA": [
+    "Through the Ages"
+  ],
+  "WS": [
+    "Wingspan"
+  ]
 }
