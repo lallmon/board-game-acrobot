@@ -16,7 +16,8 @@ client.on("message", msg => {
     //Don't respond to yourself, lol.
     return;
   }
-  if (msg.isMentioned(client.user.
+  console.log(msg.mentions.users[client.user.id]);
+  if (msg.mentions.users.has(client.user.id)) {
     //Only respond to text after the @			     
     const command = trim(last(split(msg.content, '>'))).toUpperCase();
     
