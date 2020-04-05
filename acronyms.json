@@ -1,4 +1,13 @@
 {
+  "AFFO": [
+    "A Feast for Odin"
+  ],
+  "AH": [
+    "Arkham Horror"
+  ],
+  "AHTC": [
+    "Arkham Horror: The Card Game"
+  ],
   "ANR": [
     "Android: Netrunner"
   ],
@@ -11,6 +20,9 @@
   ],
   "BGG": [
     "Board Game Geek"
+  ],
+  "BR": [
+    "Blood Rage"
   ],
   "BSG": [
     "Battlestar Galactica"
@@ -31,17 +43,26 @@
   "FCM": [
     "Food Chain Magnate"
   ],
+  "FH": [
+    "Frosthaven"
+  ],
   "FLGS": [
     "Friendly Local Game Shop"
   ],
   "GH": [
     "Gloomhaven"
   ],
+  "GWT": [
+    "Great Western Trail"
+  ],
   "HT": [
     "Hansa Teutonica"
   ],
   "GOT": [
     "A Game of Thrones"
+  ],
+  "GP": [
+    "Gaia Project"
   ],
   "GTR": [
     "Glory to Rome"
@@ -61,6 +82,9 @@
   "MK": [
     "Mage Knight"
   ],
+  "MOM": [
+    "Mansions of Madness"
+  ],
   "MTG": [
     "Magic: The Gathering"
   ],
@@ -70,6 +94,9 @@
   "PNP": [
     "Print and Play"
   ],
+  "PR": [
+    "Puerto Rico"
+  ],
   "RFTG": [
     "Roll for the Galaxy",
     "Race for the Galaxy"
@@ -78,16 +105,28 @@
     "Role Playing Game"
   ],
   "SC": [
-    "Sidereal Confluence"
+    "Sidereal Confluence: Trading and Negotiation in the Elysium Quadrant"
   ],
   "SI": [
     "Spirit Island"
+  ],
+  "SVWAG": [
+    "So Very Wrong About Games (Podcast)"
   ],
   "TCG": [
     "Trading Card Game"
   ],
   "TFM": [
     "Terraforming Mars"
+  ],
+  "TI": [
+    "Twilight Imperium"
+  ],
+  "TI3": [
+    "Twilight Imperium: 3rd Edition"
+  ],
+  "TI4": [
+    "Twilight Imperium: 4th Edition"
   ],
   "TGZ": [
     "The Great Zimbabwe"
@@ -99,6 +138,9 @@
   "TMB": [
     "Too Many Bones"
     ],
+  "TS": [
+    "Twilight Struggle"
+  ],
   "TTA": [
     "Through the Ages"
   ],
