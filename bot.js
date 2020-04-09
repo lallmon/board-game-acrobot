@@ -9,6 +9,12 @@ const trim = require('lodash/trim');
 const client = new Discord.Client();
 dotenv.config();
 
+const suggestion = new Discord.MessageEmbed()
+			      .setColor('blue')
+			      .setURL('https://forms.gle/pGrDA4miGey162aa9')
+			      .setTitle('Suggest Acronyms Here');
+
+
 client.on("ready", () => {
   console.log(`Logged in as ${client.user.username}!`);
 });
@@ -21,7 +27,7 @@ client.on("message", msg => {
 
   if (msg.mentions.users.has(client.user.id)) {
     //Reduce to just the capital letter acronym			     
-    const command = replace(trim(last(split(msg.content, '>'))), ':', '').toUpperCase();
+    const command = replace(trim(last(split(msg.content, '>'))), /[^\w\s]/gi, '').toUpperCase();
 
     if (command === "HELP") {
       msg.channel.startTyping();
@@ -41,9 +47,12 @@ client.on("message", msg => {
       axios
 	.get(`${process.env.ACRONYM_API_URL}/${command}.json`)
 	.then(res => {
-	  res.data === null ?
-	  msg.channel.send("💥 Nothin. Ask me HELP for more") :
-	  msg.channel.send(`🤔 ${res.data}?`);
+	  if (res.data === null) {
+	    msg.channel.send("💥 Nothin.");
+	    msg.channel.send(suggestion);
+	    return
+	  }
+	    msg.channel.send(`🤔 ${res.data}?`);
 	 })
 	 .catch(err => {
 	   console.error(err.message);
